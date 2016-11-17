@@ -6,6 +6,7 @@ function add(){
 bugMsg()
 }
 function sub(){
+function clear(){}
 bugMsg()
 }
 function bugMsg(){}
