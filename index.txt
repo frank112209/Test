@@ -1,4 +1,8 @@
 using msg
-function check(){}
-function add(){}
-function bugMsg{}
+function check(){
+bugMsg()
+}
+function add(){
+bugMsg()
+}
+function bugMsg(){}
