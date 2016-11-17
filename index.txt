@@ -1,2 +1,4 @@
+using msg
 function check(){}
 function add(){}
+function bugMsg{}
