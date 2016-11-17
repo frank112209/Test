@@ -1,2 +1,4 @@
 Group
 {name,ID,class}
+GroupData
+{scor}
